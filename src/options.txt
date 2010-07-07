@@ -1,0 +1,3 @@
+targetlines=1
+wavedowntime=10
+playerhealth=20
